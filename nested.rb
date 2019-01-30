@@ -128,6 +128,6 @@ def adding_to_dennis
         }
      }
      
-     programmer_hash = {new: "new_value"}.merge("Assembly")
+     programmer_hash[:dennis_ritchie][:known_for].merge("Assembly")
 
 end
