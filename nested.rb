@@ -81,6 +81,7 @@ def adding_matz
         }
      }
 
+new_response = {new: 'new_value'}.merge(response)
     
 end
 
