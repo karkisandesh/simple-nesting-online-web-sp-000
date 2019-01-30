@@ -85,7 +85,7 @@ def adding_matz
         
       }
         
-new_response = {new: 'new_value'}.merge(new_programmer_hash)
+programmer_hash = {new: 'new_value'}.merge(new_programmer_hash)
     
 end
 
